@@ -58,15 +58,16 @@
 
 ### 内置业务功能 
 
-1.  [内容管理系统](https://sourcebyte.cn)
+1.  [CRM内容管理系统](https://sourcebyte.cn)
 2.  [在线租房系统](http://47.243.114.191:8080/house)
 3.  [开源商城系统](https://sourcebyte.cn)
-4.  [开源WMS系统](https://sourcebyte.cn)
+4.  [WMS材料管理系统](https://sourcebyte.cn)
 5.  [智慧党建系统](http://8.141.150.22)
-6.  [相亲社区系统](http://47.243.114.191:8080/love)
-7.  [家居服务系统](http://47.243.114.191:8080/home)
-8.  [资产管理系统](https://sourcebyte.cn)
-8.  [更多业务功能](https://sourcebyte.cn)
+6.  [阳光村务系统](https://sourcebyte.cn)
+7.  [相亲社区系统](http://47.243.114.191:8080/love)
+8.  [家居服务系统](http://47.243.114.191:8080/home)
+9.  [资产管理系统](https://sourcebyte.cn)
+10.  [更多业务功能](https://sourcebyte.cn)
 
 ### 部分截图
 #### 1. 后台截图
@@ -96,7 +97,7 @@
  **综上，低代码平台包含零代码平台的所有能力，从企业经营长远发展目标考虑，便捷的开发形式+卓越的拓展能力是核心，低代码平台能够帮助企业解决业务多重挑战。** 
 
 ### QQ交流群
-| 开源1群(851042670) | 开源2群(522723115) | 开源3群(862649072) |
+| 1群(851042670已满) | 2群(522723115) | 3群(862649072) |
 | :------: | :------: | :------: |
 | <img src="https://gitee.com/open-source-byte/source-vue/raw/master/doc/qq01.png" width="200px">| <img src="https://gitee.com/open-source-byte/source-vue/raw/master/doc/qq02.png" width="200px">| <img src="https://gitee.com/open-source-byte/source-vue/raw/master/doc/qq03.png" width="200px">| 
 
