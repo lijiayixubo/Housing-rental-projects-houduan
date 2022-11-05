@@ -241,13 +241,6 @@
                 <version>${source.version}</version>
             </dependency>
 
-            <!-- wms模块-->
-            <dependency>
-                <groupId>cn.source</groupId>
-                <artifactId>source-wms</artifactId>
-                <version>${source.version}</version>
-            </dependency>
-
             <!-- 商城模块-->
             <dependency>
                 <groupId>cn.source</groupId>
@@ -274,8 +267,6 @@
         <module>source-im</module>
         <!--新增工作流模块-->
         <module>source-flow</module>
-        <!--新增wms模块-->
-        <module>source-wms</module>
         <!--新增mall模块-->
         <module>source-mall</module>
     </modules>
