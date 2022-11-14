@@ -8,7 +8,7 @@
         <a href="https://gitee.com/open-source-byte/source-vue" target="_blank">
             <img src="https://gitee.com/open-source-byte/source-vue/badge/fork.svg?theme=dark">
         </a>
-	<a href="https://sourcebyte.cn" target="_blank"><img src="https://img.shields.io/badge/开源字节-v1.0.0-brightgreen.svg"></a>
+	<a href="https://sourcebyte.cn" target="_blank"><img src="https://img.shields.io/badge/开源字节-v1.1.0-brightgreen.svg"></a>
 	<a href=" http://boot.sourcebyte.cn:8081/login" target="_blank"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
 </p>
 
@@ -64,16 +64,13 @@
 
 ### 内置业务功能 
 
-1.  [CRM内容管理系统](https://sourcebyte.cn)
+1.  [内容管理系统](https://sourcebyte.cn)
 2.  [在线租房系统](http://43.142.193.197:8080/house)
 3.  [开源商城系统](https://sourcebyte.cn)
-4.  [WMS材料管理系统](https://sourcebyte.cn)
-5.  [智慧党建系统](http://8.141.150.22)
-6.  [阳光村务系统](https://sourcebyte.cn)
-7.  [相亲社区系统](http://43.142.193.197:8080/love)
-8.  [家居服务系统](http://43.142.193.197:8080/home)
-9.  [资产管理系统](https://sourcebyte.cn)
-10.  [更多业务功能](https://sourcebyte.cn)
+4.  [智慧党建系统](http://8.141.150.22)
+5.  [相亲社区系统](http://43.142.193.197:8080/love)
+6.  [家居服务系统](http://43.142.193.197:8080/home)
+7.  [更多业务功能](https://sourcebyte.cn)
 
 ### 部分截图
 #### 1. 后台截图
@@ -103,7 +100,7 @@
  **综上，低代码平台包含零代码平台的所有能力，从企业经营长远发展目标考虑，便捷的开发形式+卓越的拓展能力是核心，低代码平台能够帮助企业解决业务多重挑战。** 
 
 ### QQ交流群
-| 1群(851042670已满) | 2群(522723115) | 3群(862649072) |
+| 1群(851042670) | 2群(522723115) | 3群(862649072) |
 | :------: | :------: | :------: |
 | <img src="https://gitee.com/open-source-byte/source-vue/raw/master/doc/qq01.png" width="200px">| <img src="https://gitee.com/open-source-byte/source-vue/raw/master/doc/qq02.png" width="200px">| <img src="https://gitee.com/open-source-byte/source-vue/raw/master/doc/qq03.png" width="200px">| 
 
