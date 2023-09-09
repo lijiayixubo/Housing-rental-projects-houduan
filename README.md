@@ -15,7 +15,7 @@
 - 使用FileView实现在线预览，支持doc,docx,Excel,pdf,txt,zip,rar,图片等。
 - 支持加载动态权限菜单，控制菜单权限，按钮权限，数据权限。
 
-## 前端代码链接：(https://github.com/lijiayixubo/Housing-rental-projects-houduan)
+## 前端代码链接：https://github.com/lijiayixubo/Housing-rental-projects
   
 ## 项目运行截图
 ####  前后端截图：
